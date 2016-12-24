@@ -1,0 +1,20 @@
+c:\users\ahmed\documents\visual studio 2012\Projects\Plane\Plane\bin\Debug\Plane.exe.config
+c:\users\ahmed\documents\visual studio 2012\Projects\Plane\Plane\bin\Debug\Plane.exe
+c:\users\ahmed\documents\visual studio 2012\Projects\Plane\Plane\bin\Debug\Plane.pdb
+c:\users\ahmed\documents\visual studio 2012\Projects\Plane\Plane\bin\Debug\Plane.xml
+c:\users\ahmed\documents\visual studio 2012\Projects\Plane\Plane\obj\Debug\Plane.Form1.resources
+c:\users\ahmed\documents\visual studio 2012\Projects\Plane\Plane\obj\Debug\Plane.Resources.resources
+c:\users\ahmed\documents\visual studio 2012\Projects\Plane\Plane\obj\Debug\Plane.vbproj.GenerateResource.Cache
+c:\users\ahmed\documents\visual studio 2012\Projects\Plane\Plane\obj\Debug\Plane.exe
+c:\users\ahmed\documents\visual studio 2012\Projects\Plane\Plane\obj\Debug\Plane.xml
+c:\users\ahmed\documents\visual studio 2012\Projects\Plane\Plane\obj\Debug\Plane.pdb
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\Plane - Copy\Plane\bin\Debug\Plane.exe.config
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\Plane - Copy\Plane\obj\Debug\Plane.exe
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\Plane - Copy\Plane\obj\Debug\Plane.xml
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\Plane - Copy\Plane\obj\Debug\Plane.pdb
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\Plane - Copy\Plane\bin\Debug\Plane.exe
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\Plane - Copy\Plane\bin\Debug\Plane.pdb
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\Plane - Copy\Plane\bin\Debug\Plane.xml
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\Plane - Copy\Plane\obj\Debug\Plane.Form1.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\Plane - Copy\Plane\obj\Debug\Plane.Resources.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\Plane - Copy\Plane\obj\Debug\Plane.vbproj.GenerateResource.Cache
